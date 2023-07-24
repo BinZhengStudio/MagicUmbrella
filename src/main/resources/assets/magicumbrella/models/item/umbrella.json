@@ -1,0 +1,5 @@
+{
+  "loader": "forge:obj",
+  "model": "magicumbrella:models/item/umbrella.obj",
+  "flip-v": true
+}
